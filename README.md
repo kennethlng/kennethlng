@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name's Kenneth Ng. I'm a multidisciplinary developer buildings games and apps. 
+
 <!--
 **kennethlng/kennethlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
