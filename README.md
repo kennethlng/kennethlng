@@ -1,3 +1,5 @@
+![](https://imgur.com/2k6JLNG)
+
 ### Hi there 👋
 
 My name's Kenneth Ng. I'm a multidisciplinary developer buildings apps and games. Check out my [work](https://kennethlng.com)!
