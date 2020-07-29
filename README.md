@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[](/media/6687B7CC-D218-4497-BFE4-B5D520F7E22E.png)
+
 My name's Kenneth Ng. I'm a multidisciplinary developer buildings apps and games. Check out my [work](https://kennethlng.com)!
 
 If you're interested in connecting, find me on Twitter at [@KennethLNg](https://twitter.com/kennethlng) or email me at [Hello@KennethLNg.com](mailto:hello@kennethlng.com). 
