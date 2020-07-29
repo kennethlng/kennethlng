@@ -4,7 +4,7 @@
 
 My name's Kenneth Ng. I'm a multidisciplinary developer based in the Bay Area buildings apps and games. I've worked on product web portals, consumer social mobile applications, and interactive AR/VR applications. Check out my [work](https://kennethlng.com)! If you're interested in connecting, find me on Twitter at [@KennethLNg](https://twitter.com/kennethlng) or email me at [Hello@KennethLNg.com](mailto:hello@kennethlng.com). 
 
-My stack: React, Node.js, Firebase, Unity, Swift, NoSQL, MySQL, C#, Javascript
+My stack: `React`, `Node.js`, `Firebase`, `Unity`, `Swift`, `NoSQL`, `MySQL`, `C#`, `Javascript`
 
 <!--
 **kennethlng/kennethlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
