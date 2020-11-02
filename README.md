@@ -6,7 +6,7 @@ My name's Kenneth Ng. I'm a multidisciplinary developer with 4+ years of experie
 
 Check out my projects at [https://kennethlng.com](https://kennethlng.com). If you're interested in connecting, email me at Hello@KennethLNg.com or send me a message on Twitter @KennethLNg. 
 
-My stack: `React` `Node.js` `Firebase` `Unity` `SwiftUI` `NoSQL` `MySQL` `Javascript` `C#` `Material UI` `Bulma`
+My stack: `React` `Node.js` `Firebase` `Unity` `SwiftUI` `NoSQL` `MySQL` `Material UI` `Bulma`
 
 <!--
 **kennethlng/kennethlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
