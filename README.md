@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 
-My name's Kenneth Ng. I'm a multidisciplinary developer based in the Bay Area buildings apps and games. I've worked on product web portals, consumer social mobile applications, and interactive AR/VR applications. I also love developing business plans, pitch decks, and product strategy plans. Check out my [work](https://kennethlng.com)! If you're interested in connecting, find me on Twitter at [@kennethlng](https://twitter.com/kennethlng) or email me at [hello@kennethlng.com](mailto:hello@kennethlng.com). 
+My name's Kenneth Ng. I'm a multidisciplinary developer with 4+ years of experience building interactive AR/VR applications, games, and full-stack websites. I specialize in rapid prototyping and product ideation. I also support with market research, business plan development, and investor pitch deck development. 
 
-My stack: `React` `Node.js` `Firebase` `Unity` `Swift` `NoSQL` `MySQL` `C#` `Javascript`
+Check out my projects at [https://kennethlng.com](https://kennethlng.com). If you're interested in connecting, email me at Hello@KennethLNg.com or send me a message on Twitter @KennethLNg. 
+
+My stack: `React` `Node.js` `Firebase` `Unity` `SwiftUI` `NoSQL` `MySQL` `Javascript` `C#` `Material UI` `Bulma`
 
 <!--
 **kennethlng/kennethlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
