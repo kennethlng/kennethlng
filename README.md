@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name's Kenneth Ng. I'm a multidisciplinary developer with 4+ years of experience building interactive AR/VR applications, games, and full-stack websites. I specialize in rapid prototyping, product ideation, and development using `React` and `Firebase`. I also support with market research, business plan development, and investor pitch deck development. 
+My name's Kenneth Ng. I'm a multidisciplinary developer with 4+ years of experience building interactive AR/VR applications, games, and full-stack websites. I specialize in rapid prototyping, product ideation, and development using `React`, `Firebase`, and `Unity`. I also support with market research, business plan development, and investor pitch deck development. 
 
 Check out my projects at [https://kennethlng.com](https://kennethlng.com). If you're interested in connecting, email me at Hello@KennethLNg.com or send me a message on Twitter @KennethLNg. 
 
